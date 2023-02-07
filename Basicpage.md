@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>link here </td>
+    <td><a href="https://github.com/Paulariv/Student-knes381/blob/0fb30cca443cb3a7cf923ed7ac982f63fdd43803/img/flower.jpg"> This is the link to a subfolder</a></td>
    </table>
  
  <p><a href="https://github.com/Paulariv/Student-knes381/blob/87a206c217a35cc59ce789c021ef606442abb4bf/readme.md"> 
